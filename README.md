@@ -1,1 +1,2 @@
-# Python---Data-Cleaning-Project
+Python-Data-Cleaning-Project
+This dataset is the Olympics dataset that consisted of 70,000 rows and 15 columns. To clean the data and bring it up to it's present version, duplicates were removed, the data had to be standardised, null values were taken out, columns that were not needed were dropped, a column was renamed, the index column had to be reset due because the null values that were dropped affected the index column and the final step was to save the cleaned data as a csv file
